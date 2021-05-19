@@ -15,7 +15,7 @@ Response :
 ```
 success/error message
 ```
-Note : Currently this API is supporting XLSX, Had some issue with CSV read in my system. [See XLSX converted file here](Product list - Sheet1 copy (1).xlsx)<br/>
+Note : Currently this API is supporting XLSX, Had some issue with CSV read in my system. [See XLSX converted file here](Productlist.xlsx)     <br/>
 
 
 ## Search Medicine By Name
